@@ -2,6 +2,8 @@
 #
 ## Script bash de sauvegarde de blogs WordPress vers un serveur Nextcloud
 #
+#Pour plus d'infos : https://memo-linux.com/script-de-sauvegarde-wordpress-vers-nextcloud/
+#
 ##Initialiser les variables
 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
 user=USER_MariaDB
